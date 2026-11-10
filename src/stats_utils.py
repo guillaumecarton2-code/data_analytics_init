@@ -44,8 +44,8 @@ def analyser_ventes(transactions):
         "minimum": minimum,
         "anomalies": anomalies
     }
-
-# 5. Bloc d'exécution et de test
+#guilaummmmmmmmmme
+# 5. Bloc d'exécution et de test 
 if __name__ == "__main__":
     donnees_test = [150, 250, -20, 0, 300, 1500, 450, 120, 220, 1100, 50]
     
